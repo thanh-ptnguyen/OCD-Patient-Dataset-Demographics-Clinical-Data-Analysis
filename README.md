@@ -7,6 +7,14 @@ This project analyzes a clinical dataset of patients diagnosed with Obsessive-Co
 Using SQL, I transformed raw healthcare data into actionable insights by analyzing **gender distribution, ethnicity patterns, time trends, and dominant symptom behaviors**.
 
 ---
+## 🧭 Quick Navigation
+[🎯 Business Questions](#-business-questions) • 
+[👥 Target Audience](#-target-audience) • 
+[📂 Dataset Description](#-dataset-description) • 
+[🛠 Tools & Skills](#-tools-&-skills) • 
+[🔍 Key Analysis](#-key-analysis) • 
+
+---
 
 ## 🎯 Business Questions
 
