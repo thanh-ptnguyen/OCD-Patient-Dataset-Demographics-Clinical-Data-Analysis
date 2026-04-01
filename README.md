@@ -13,8 +13,7 @@ Using SQL, I transformed raw healthcare data into actionable insights by analyzi
 [📂 Dataset Description](#-dataset-description) • 
 [🛠 Tools & Skills](#-tools-&-skills) • 
 [🔍 KEY ANALYSIS](#-key-analysis) • 
-[🚀 Future Improvements](#-future-improvements) • 
-[ 💼 Why This Project Matters](#-why-this-project-matters) 
+[🚀 Future Improvements](#-future-improvements) 
 
 ---
 
