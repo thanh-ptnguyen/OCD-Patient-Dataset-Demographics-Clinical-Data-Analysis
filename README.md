@@ -1,4 +1,4 @@
-# 🧠 OCD Patient Data Analysis | SQL & Power BI Portfolio Project
+# 🧠 OCD Patient Data Analysis | mySQL & Power BI 
 
 ## 📌 Project Overview
 
