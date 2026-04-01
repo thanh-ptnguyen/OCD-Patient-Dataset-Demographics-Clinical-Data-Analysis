@@ -1,4 +1,4 @@
-# 🧠 OCD Patient Data Analysis | SQL Portfolio Project
+# 🧠 OCD Patient Data Analysis | SQL & Power BI Portfolio Project
 
 ## 📌 Project Overview
 
@@ -65,6 +65,8 @@ This project answers key analytical questions relevant to healthcare decision-ma
 ## 🛠 Tools and Skills
 
 * SQL (MySQL)
+* Power BI (Data Visualization & Dashboard Design)
+* Excel (Data Preparation)
 * Data Aggregation & Grouping
 * Data Cleaning & Transformation
 * Time-Series Analysis (MoM)
@@ -214,6 +216,34 @@ ORDER BY 2;
 
 📌 Insight:
 Common behavioral patterns dominate OCD cases, allowing providers to standardize treatment protocols for the majority of patients.
+
+---
+### 🖥 PowerBi Dashboard
+This  Power BI dashboard visualizes key insights from the OCD patient dataset, focusing on demographics, diagnosis trends, and behavioral patterns.
+<img width="1046" height="591" alt="Screenshot 2026-04-01 at 14 22 49" src="https://github.com/user-attachments/assets/b468f58c-8fa9-4e2e-ad24-9d6aca2c1b52" />
+
+---
+#### 📈 Key Visuals
+
+1. Diagnosis Trend Over Time
+Line chart showing patient count by month
+Helps identify fluctuations and potential seasonal patterns
+
+2. Gender Distribution
+Donut chart displaying male vs female patient split
+Quick overview of demographic distribution
+
+3. Ethnicity Breakdown
+Horizontal bar chart showing patient count by ethnicity
+Enables comparison across demographic groups
+
+4. Compulsion Type Analysis
+Bar chart showing most common compulsion behaviors
+Highlights dominant behavioral patterns
+
+5. Obsession Type vs Severity
+Combined bar + line chart
+Compares patient count and average obsession score across obsession types
 
 ---
 #### 💡 Overall Insight
