@@ -7,13 +7,14 @@ This project analyzes a clinical dataset of patients diagnosed with Obsessive-Co
 Using SQL, I transformed raw healthcare data into actionable insights by analyzing **gender distribution, ethnicity patterns, time trends, and dominant symptom behaviors**.
 
 ---
-## 🧭 Quick Navigation
-[🎯 Business Questions](#-business-questions) • 
-[👥 Target Audience](#-target-audience) • 
-[📂 Dataset Description](#-dataset-description) • 
-[🛠 Tools & Skills](#-tools-&-skills) • 
-[🔍 KEY ANALYSIS](#-key-analysis) • 
-[🚀 Future Improvements](#-future-improvements) 
+## 🧭 Navigation
+[🎯 Business Questions](#-business-questions)  	<br>
+[👥 Target Audience](#-target-audience)  		<br>
+[📂 Dataset Description](#-dataset-description) <br> 
+[🛠 Tools and Skills](#-tools-and-skills)		<br>
+[🔍 KEY ANALYSIS](#-key-analysis)  				<br>
+[🚀 Future Improvements](#-future-improvements) <br>
+[💼 Why This Project Matters](#-why-this-project-matters) <br>
 
 ---
 
@@ -61,7 +62,7 @@ This project answers key analytical questions relevant to healthcare decision-ma
 
 ---
 
-## 🛠 Tools & Skills
+## 🛠 Tools and Skills
 
 * SQL (MySQL)
 * Data Aggregation & Grouping
@@ -195,7 +196,7 @@ OCD symptoms are concentrated around key obsession patterns, meaning targeted th
 
 ### 5. Compulsion Type Analysis
 
-* Identified most common compulsion behaviors
+* Identified the most common compulsion behaviors
 * Compared their severity levels
 
 #### 🚀 Queries
